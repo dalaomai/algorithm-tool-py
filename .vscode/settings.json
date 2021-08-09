@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.kubeconfig": "yaml",
+        "test.h": "c"
+    }
+}
